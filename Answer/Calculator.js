@@ -13,6 +13,11 @@ module.exports = class Calculator
      */
     getDistanceBetweenPlayers(player1, player2)
     {
-        // TODO Add answer
+        const adjacent = Math.abs((player1.location.x - player2.location.x));
+        const opposite = Math.abs((player1.location.y - player2.location.y));
+
+        let hyp = (Math.pow(adjacent, 2) + Math.pow(opposite, 2));
+
+        return Math.round(Math.sqrt(hyp));
     }
 };
