@@ -20,3 +20,7 @@ To take part in the challenge, complete the following steps:
 This is one of the joys of programming, as developers we have the opportunity to work in so many different fields and environments. From gaming to space. These sorts of challenges give us the opportunity to experiment with those ideas, and approach the challenges that individuals working in those fields tackle every day.
 
 This is part of a challenge series for my blog, read more of my work: https://terencethedev.co.uk/
+
+Want to talk about the challenge or having troubles? Join the Facebook group: https://www.facebook.com/groups/540117140158018/
+
+Send me a tweet: https://twitter.com/tjrlz
